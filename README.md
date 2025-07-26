@@ -5,7 +5,7 @@ Hey there! I'm Pratiksha, a passionate **Full-Stack Developer** and a **3rd-year
 Explore my portfolio showcasing the projects, skills, and tech that define my journey so far.
 
 ## 🌐 Live Portfolio
-[Visit My Portfolio](https://your-portfolio-link.com)
+[Visit My Portfolio](https://portfolio-two-pied-99.vercel.app/)
 
 ---
 
@@ -50,7 +50,7 @@ Explore my portfolio showcasing the projects, skills, and tech that define my jo
 - 📧 Email: pratikshapandey@example.com  
 - 🌐 [LinkedIn](https://linkedin.com/in/pratikshapandey)  
 - 💻 [GitHub](https://github.com/Pratikshapandey1609)
-- 🌍 [Portfolio](https://your-portfolio-link.com)
+- 🌍 [Portfolio](https://portfolio-two-pied-99.vercel.app/)
 
 ---
 
